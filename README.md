@@ -15,15 +15,6 @@ It compares movie plots/descriptions and recommends the most similar movies to a
 
 ---
 
-## 📂 Project Structure
-├── bow_recommender.py # Movie recommender using Bag of Words
-├── tfidf_recommender.py # Movie recommender using TF-IDF
-├── movies.csv # Dataset of movies with descriptions
-└── README.md # Project documentation
-
-
----
-
 ## 🚀 How It Works
 
 ### 1. Bag of Words (BoW)
